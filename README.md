@@ -8,6 +8,8 @@ extremely common example of fibonacci numbers.
 
 [Here is a python tutor link illustrating the simple example][simple-recursion-pythontutor]
 
+[Here is a link to a google presentation explaining recursion][recursion-slides]
+
 ### Simple
 The "simple" recursion example focuses on computing a single fibonacci number,
 in order to simplify state that is propagated via the recurrence relation (what
@@ -22,3 +24,4 @@ position, and without using a global variable.
 
 
 [simple-recursion-pythontutor]: https://tinyurl.com/y8nr5ztl
+[recursion-slides]: https://docs.google.com/presentation/d/1i0RzAH-SFIdoQdrIjdskeoOTjBv7Jb5FrUfjoXDL0NU/edit?usp=sharing
